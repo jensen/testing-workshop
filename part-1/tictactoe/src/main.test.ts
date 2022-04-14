@@ -3,7 +3,7 @@ import { getWinner } from "./main.ts";
 
 Deno.test("no winner", () => {
   assertEquals(
-    getWinner([null, null, null, null, null, null, null, null, "b"]),
+    getWinner([null, null, null, null, null, null, null, null, null]),
     null
   );
 });
