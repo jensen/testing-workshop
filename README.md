@@ -8,3 +8,13 @@
 4. Testing Parlance
 5. Shipping Features
 6. Designing Tests
+
+## Part Two
+
+1. Taking Control
+2. Isolation
+3. The Spectrum
+4. Determinism
+5. Espionage
+6. Services
+7. Making Matchers
