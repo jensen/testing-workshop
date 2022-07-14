@@ -18,3 +18,11 @@
 5. Espionage
 6. Services
 7. Making Matchers
+
+## Part Three
+
+1. Confidence
+2. Visual Regression
+3. Static Analysis
+4. Simulation
+5. End-to-End
