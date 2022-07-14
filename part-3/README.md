@@ -74,7 +74,7 @@ For larger applications, it is common to use a tool like Storybook to manage the
 
 When we have large teams working on component libraries, we want to make it as easy as possible for designers to verify that the interface matches their designs. Pair Storybook with [Chromatic](https://www.chromatic.com/) to gain access to more features like automated visual testing and collaborative review.
 
-https://user-images.githubusercontent.com/14803/179069567-7b5531c1-15c5-4c25-9d9e-9734b72dc1ef.mp4
+https://user-images.githubusercontent.com/14803/179072046-6c33cae5-d2b3-4cf2-8da6-042d07e4ddfa.mp4
 
 We can see how larger organizations use Storybook by browsing their showcase.
 
